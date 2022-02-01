@@ -1,1 +1,2 @@
 # movie-recommendation-ai
+This project is adapted from [Deep Learning Cookbook](http://shop.oreilly.com/product/0636920097471.do), the [notebooks for which can be found on GitHub](https://github.com/DOsinga/deep_learning_cookbook). The purpose is to create a simple movie recommendation based on similarity using Embedding. The embedding is the number that is squeezed into lower dimension using higher dimension number.
